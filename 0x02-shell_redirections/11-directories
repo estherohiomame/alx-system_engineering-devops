@@ -1,0 +1,2 @@
+#!/bin/bash
+find . \( -type d -o -path '*/.*' \) | wc -l
